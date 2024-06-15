@@ -57,7 +57,7 @@ pkg upgrade -y
 Clone this repository to your Termux environment:
 
 ```sh
-git clone https://github.com/your-username/termux-setup-scripts.git
+git clone https://github.com/Piyush-Choudhary99/pkg-installer.git
 ```
 
 Replace `your-username` with your GitHub username.
