@@ -43,7 +43,7 @@ termux-setup-storage.
     apt install python 
    ```
    ```
-    git clone https://github.com/Hackertrackersj/Termux--Package
+    git clone https://github.com/Piyush-Choudhary99/Essentialize.git
    ```
    ```
     cd Termux-package
